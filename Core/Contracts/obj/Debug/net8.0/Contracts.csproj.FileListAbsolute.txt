@@ -1,0 +1,15 @@
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\bin\Debug\net8.0\Domain.dll
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\bin\Debug\net8.0\Domain.pdb
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HwImRIc4CvY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Islam Mohamed\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Islam Mohamed\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
+    "C:\\Users\\Islam Mohamed\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Islam Mohamed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Islam Mohamed\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Islam Mohamed\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
