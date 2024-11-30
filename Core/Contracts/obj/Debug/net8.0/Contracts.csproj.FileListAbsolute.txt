@@ -13,3 +13,4 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\bin\Debug
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\bin\Debug\net8.0\Domain.pdb
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json

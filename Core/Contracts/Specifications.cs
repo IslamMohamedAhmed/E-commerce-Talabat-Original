@@ -14,6 +14,9 @@ namespace Contracts
         public Expression<Func<T, object>>? OrderByDescending { get; private set; }
         public List<Expression<Func<T, object>>> IncludesExpression = new();
 
+        public int Skip { get; private set; }
+        public int Take { get; private set; }
+        public bool IsPaginated { get; set; }
         protected void AppIncludes(Expression<Func<T, object>> expression)
         {
 
@@ -31,6 +34,13 @@ namespace Contracts
         protected Specifications(Expression<Func<T,bool>> criteria)
         {
             this.Criteria = criteria;
+        }
+        protected void SetPagination(int pageIndex,int PageSize)
+        {
+            IsPaginated = true;
+            Take = PageSize;
+            Skip = (pageIndex - 1) * PageSize;
+
         }
 
 

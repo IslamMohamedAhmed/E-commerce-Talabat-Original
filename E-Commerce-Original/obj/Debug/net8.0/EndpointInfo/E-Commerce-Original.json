@@ -12,14 +12,7 @@
         ],
         "parameters": [
           {
-            "name": "sort",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "brandid",
+            "name": "BrandId",
             "in": "query",
             "schema": {
               "type": "integer",
@@ -27,7 +20,30 @@
             }
           },
           {
-            "name": "typeid",
+            "name": "TypeId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "sort",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/sortingValues"
+            }
+          },
+          {
+            "name": "PageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "PageIndex",
             "in": "query",
             "schema": {
               "type": "integer",
@@ -310,6 +326,16 @@
           }
         },
         "additionalProperties": false
+      },
+      "sortingValues": {
+        "enum": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "type": "integer",
+        "format": "int32"
       }
     }
   }

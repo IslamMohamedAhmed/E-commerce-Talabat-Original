@@ -164,3 +164,4 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\bin\
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\obj\Debug\net8.0\E-Commerce-Original.sourcelink.json

@@ -6,9 +6,5 @@ using System.Threading.Tasks;
 
 namespace Shared
 {
-    public record BrandResultDto
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-    }
+    public record PaginatedResult<TData>(int PageIndex,int PageSize,int total,IEnumerable<TData> Data);
 }

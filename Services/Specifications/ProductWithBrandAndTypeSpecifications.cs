@@ -1,5 +1,6 @@
 ﻿using Contracts;
 using Domain.Models;
+using Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,31 +16,34 @@ namespace Services.Specifications
             AppIncludes(product => product.productType);
             AppIncludes(product => product.productBrand);
         }
-        public ProductWithBrandAndTypeSpecifications(string? sort, int? brandId, int? typeId) : base(product=>(!brandId.HasValue || brandId == product.BrandId) 
-        && (!typeId.HasValue || product.TypeId == typeId))
+        public ProductWithBrandAndTypeSpecifications(SpecificationValues values) : base(product => (!values.BrandId.HasValue || values.BrandId == product.BrandId)
+        && (!values.TypeId.HasValue || values.TypeId == product.TypeId))
         {
             AppIncludes(product => product.productType);
             AppIncludes(product => product.productBrand);
 
-            if (!string.IsNullOrWhiteSpace(sort)) {
-                switch (sort.ToLower().Trim())
+            if (values.sort is not null) {
+                switch (values.sort)
                 {
-                    case "priceasc":
+                    case sortingValues.priceasc:
                         SetOrder(product => product.Price);
                         break;
-                    case "pricedsc":
+                    case sortingValues.pricedesc:
                         SetOrderDescending(product => product.Price);
                         break;
-                    case "nameasc":
+                    case sortingValues.nameasc:
                         SetOrder(product => product.Name);
                         break;
 
-                    case "namedsc":
+                    case sortingValues.namedesc:
                         SetOrderDescending(product => product.Name);
                         break;
 
                 }
             }
+           
+                SetPagination(values.PageIndex,values.PageSize);
+            
         }
 
 
