@@ -14,6 +14,7 @@ namespace Contracts
 
         public Task<TEntity> GetAsync(TKey key);
         public Task<TEntity> GetAsync(Specifications<TEntity> specifications);
+        public Task<int> CountAsync(Specifications<TEntity> specifications);
 
         public Task AddAsync(TEntity entity);
         

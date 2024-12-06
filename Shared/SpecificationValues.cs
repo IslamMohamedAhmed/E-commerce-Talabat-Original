@@ -30,6 +30,7 @@ namespace Shared
             set { pageIndex = value; }
         }
 
+        public string? Search { get; set; }
 
 
     }

@@ -17,7 +17,8 @@ namespace Services.Specifications
             AppIncludes(product => product.productBrand);
         }
         public ProductWithBrandAndTypeSpecifications(SpecificationValues values) : base(product => (!values.BrandId.HasValue || values.BrandId == product.BrandId)
-        && (!values.TypeId.HasValue || values.TypeId == product.TypeId))
+        && (!values.TypeId.HasValue || values.TypeId == product.TypeId) && 
+        (string.IsNullOrWhiteSpace(values.Search) || product.Name.ToLower().Contains(values.Search.ToLower().Trim())))
         {
             AppIncludes(product => product.productType);
             AppIncludes(product => product.productBrand);

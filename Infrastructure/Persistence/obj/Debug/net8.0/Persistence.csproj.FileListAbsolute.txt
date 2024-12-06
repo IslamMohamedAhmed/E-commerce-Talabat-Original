@@ -10,9 +10,9 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persisten
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
-C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

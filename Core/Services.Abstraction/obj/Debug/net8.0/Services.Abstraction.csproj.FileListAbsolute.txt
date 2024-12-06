@@ -8,9 +8,9 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstractio
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.AssemblyInfoInputs.cache
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.AssemblyInfo.cs
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.sourcelink.json
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\Services.4D1A1826.Up2Date
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\refint\Services.Abstraction.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.pdb
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\ref\Services.Abstraction.dll
-C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.sourcelink.json

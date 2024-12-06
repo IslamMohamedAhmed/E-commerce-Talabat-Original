@@ -31,6 +31,11 @@
         "Name": "PageIndex",
         "Type": "System.Int32",
         "IsRequired": false
+      },
+      {
+        "Name": "Search",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [

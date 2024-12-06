@@ -14,9 +14,9 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\Services.sourcelink.json
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\Services.csproj.Up2Date
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\Services.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\ref\Services.dll
-C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Services\obj\Debug\net8.0\Services.sourcelink.json

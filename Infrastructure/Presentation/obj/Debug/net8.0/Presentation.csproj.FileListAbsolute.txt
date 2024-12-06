@@ -10,9 +10,9 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentat
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll
-C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json

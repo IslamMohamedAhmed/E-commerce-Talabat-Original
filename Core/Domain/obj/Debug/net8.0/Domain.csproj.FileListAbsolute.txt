@@ -5,6 +5,7 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Domain\obj\Debug\ne
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Core\Domain\obj\Debug\net8.0\Domain.pdb

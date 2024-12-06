@@ -23,6 +23,11 @@ namespace Persistence.Repositories
             await storeContext.Set<TEntity>().AddAsync(entity);
         }
 
+        public async Task<int> CountAsync(Specifications<TEntity> specifications)
+        {
+            return await SpecificationEvaluator.GetQuery(storeContext.Set<TEntity>(), specifications).CountAsync();
+        }
+
         public void Delete(TEntity entity)
         {
             storeContext.Set<TEntity>().Remove(entity);
