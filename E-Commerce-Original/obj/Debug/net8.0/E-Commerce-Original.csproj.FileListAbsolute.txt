@@ -165,3 +165,5 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\obj\
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\obj\Debug\net8.0\E-Commerce-Original.pdb
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\obj\Debug\net8.0\E-Commerce-Original.genruntimeconfig.cache
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\obj\Debug\net8.0\ref\E-Commerce-Original.dll
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\E-Commerce-Original\bin\Debug\net8.0\StackExchange.Redis.dll
