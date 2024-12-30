@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n/bBd7ER71pj6go9mdJsca3cF/D1iKtU7pP9F63yDQ0=",
+  "Hash": "XN7KiYZxzamrgIG+y8/bB624h5sRgADAjSSmNBH3nJ0=",
   "Source": "E-Commerce-Original",
   "BasePath": "_content/E-Commerce-Original",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "E-Commerce-Original\\wwwroot",
       "Source": "E-Commerce-Original",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/CheesyVegetableLasagna#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CheesyVegetableLasagna.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenMarsala.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/ChickenMarsala#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenMarsala.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/ChickenTeriyakiNoodles#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTeriyakiNoodles.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/ChickenTikkaMasala#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTikkaMasala.jpg"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Congee.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Congee.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/Congee#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Congee.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/CreamyGochujangTortellini#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CreamyGochujangTortellini.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/CrispyVegetablePakoras#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CrispyVegetablePakoras.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HaluskiNoodles.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/HaluskiNoodles#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HaluskiNoodles.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/HeartyVegetableLasagna#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HeartyVegetableLasagna.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/ItalianChickenMarinade#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianChickenMarinade.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/ItalianWeddingSoup#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianWeddingSoup.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Kulfi.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Kulfi.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/Kulfi#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Kulfi.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PastaSalad.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PastaSalad.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/PastaSalad#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PastaSalad.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PepperPasta.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PepperPasta.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/PepperPasta#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PepperPasta.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/ShrimpEggFooYoung#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ShrimpEggFooYoung.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\TandooriChicken.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\TandooriChicken.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/TandooriChicken#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\TandooriChicken.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianKorma.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/VegetarianKorma#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\VegetarianKorma.png"
     },
     {
-      "Identity": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "Identity": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
       "SourceId": "E-Commerce-Original",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\",
       "BasePath": "_content/E-Commerce-Original",
       "RelativePath": "images/products/VegetarianRefriedBeans#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -398,7 +398,7 @@
   "Endpoints": [
     {
       "Route": "images/products/CheesyVegetableLasagna.277d94tvkp.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -419,7 +419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:38:59 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -443,7 +443,7 @@
     },
     {
       "Route": "images/products/CheesyVegetableLasagna.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -464,7 +464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:38:59 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -480,7 +480,7 @@
     },
     {
       "Route": "images/products/ChickenMarsala.j9gf2gpbng.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenMarsala.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -501,7 +501,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:37:25 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -525,7 +525,7 @@
     },
     {
       "Route": "images/products/ChickenMarsala.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenMarsala.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -546,7 +546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:37:25 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -562,7 +562,7 @@
     },
     {
       "Route": "images/products/ChickenTeriyakiNoodles.1r1eq4pg3a.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -583,7 +583,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:43:13 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -607,7 +607,7 @@
     },
     {
       "Route": "images/products/ChickenTeriyakiNoodles.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -628,7 +628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:43:13 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -644,7 +644,7 @@
     },
     {
       "Route": "images/products/ChickenTikkaMasala.jpg",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -665,7 +665,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:45:29 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -681,7 +681,7 @@
     },
     {
       "Route": "images/products/ChickenTikkaMasala.xurfn7rtfc.jpg",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -702,7 +702,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:45:29 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -726,7 +726,7 @@
     },
     {
       "Route": "images/products/Congee.6obkfgjvl3.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Congee.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Congee.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -747,7 +747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:42:33 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -771,7 +771,7 @@
     },
     {
       "Route": "images/products/Congee.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Congee.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Congee.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -792,7 +792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:42:33 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -808,7 +808,7 @@
     },
     {
       "Route": "images/products/CreamyGochujangTortellini.m6v6958kfh.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -829,7 +829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:41:42 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -853,7 +853,7 @@
     },
     {
       "Route": "images/products/CreamyGochujangTortellini.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -874,7 +874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:41:42 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -890,7 +890,7 @@
     },
     {
       "Route": "images/products/CrispyVegetablePakoras.orbj85bm9q.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -911,7 +911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:44:24 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -935,7 +935,7 @@
     },
     {
       "Route": "images/products/CrispyVegetablePakoras.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -956,7 +956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:44:24 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -972,7 +972,7 @@
     },
     {
       "Route": "images/products/HaluskiNoodles.5p0dqi4iia.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HaluskiNoodles.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -993,7 +993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:42:52 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1017,7 +1017,7 @@
     },
     {
       "Route": "images/products/HaluskiNoodles.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HaluskiNoodles.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1038,7 +1038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:42:52 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1054,7 +1054,7 @@
     },
     {
       "Route": "images/products/HeartyVegetableLasagna.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1075,7 +1075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:38:20 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1091,7 +1091,7 @@
     },
     {
       "Route": "images/products/HeartyVegetableLasagna.rahc9pxo20.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1112,7 +1112,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:38:20 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1136,7 +1136,7 @@
     },
     {
       "Route": "images/products/ItalianChickenMarinade.e7i10m8tk3.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1157,7 +1157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:36:16 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1181,7 +1181,7 @@
     },
     {
       "Route": "images/products/ItalianChickenMarinade.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1202,7 +1202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:36:16 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1218,7 +1218,7 @@
     },
     {
       "Route": "images/products/ItalianWeddingSoup.8o31o71bw8.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1239,7 +1239,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:49:31 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1263,7 +1263,7 @@
     },
     {
       "Route": "images/products/ItalianWeddingSoup.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1284,7 +1284,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:49:31 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1300,7 +1300,7 @@
     },
     {
       "Route": "images/products/Kulfi.fyiuz6ago0.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Kulfi.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Kulfi.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1321,7 +1321,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:44:03 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1345,7 +1345,7 @@
     },
     {
       "Route": "images/products/Kulfi.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Kulfi.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\Kulfi.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1366,7 +1366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:44:03 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1382,7 +1382,7 @@
     },
     {
       "Route": "images/products/PastaSalad.2qlcafpc0n.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PastaSalad.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PastaSalad.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1403,7 +1403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:39:22 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1427,7 +1427,7 @@
     },
     {
       "Route": "images/products/PastaSalad.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PastaSalad.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PastaSalad.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1448,7 +1448,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:39:22 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1464,7 +1464,7 @@
     },
     {
       "Route": "images/products/PepperPasta.kg3z3o7bg8.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PepperPasta.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PepperPasta.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1485,7 +1485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:40:30 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1509,7 +1509,7 @@
     },
     {
       "Route": "images/products/PepperPasta.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PepperPasta.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\PepperPasta.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1530,7 +1530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:40:30 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1546,7 +1546,7 @@
     },
     {
       "Route": "images/products/ShrimpEggFooYoung.msr8fm8kz0.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1567,7 +1567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:42:05 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1591,7 +1591,7 @@
     },
     {
       "Route": "images/products/ShrimpEggFooYoung.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1612,7 +1612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:42:05 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1628,7 +1628,7 @@
     },
     {
       "Route": "images/products/TandooriChicken.0akmarr0bz.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\TandooriChicken.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\TandooriChicken.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1649,7 +1649,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:45:07 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1673,7 +1673,7 @@
     },
     {
       "Route": "images/products/TandooriChicken.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\TandooriChicken.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\TandooriChicken.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1694,7 +1694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:45:07 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1710,7 +1710,7 @@
     },
     {
       "Route": "images/products/VegetarianKorma.7n9bvio4t8.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianKorma.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1731,7 +1731,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:44:46 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1755,7 +1755,7 @@
     },
     {
       "Route": "images/products/VegetarianKorma.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianKorma.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1776,7 +1776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:44:46 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1792,7 +1792,7 @@
     },
     {
       "Route": "images/products/VegetarianRefriedBeans.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1813,7 +1813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:39:54 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1829,7 +1829,7 @@
     },
     {
       "Route": "images/products/VegetarianRefriedBeans.uazi5tssqj.png",
-      "AssetFile": "C:\\Users\\Islam Mohamed\\source\\repos\\E-Commerce-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "AssetFile": "C:\\Users\\Islam Mohamed\\Documents\\E-commerce-Talabat-Original\\E-Commerce-Original\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1850,7 +1850,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Oct 2023 16:39:54 GMT"
+          "Value": "Thu, 26 Dec 2024 16:53:11 GMT"
         },
         {
           "Name": "Cache-Control",

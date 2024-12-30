@@ -1,5 +1,6 @@
 ﻿using Contracts;
 using Domain.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,11 +15,49 @@ namespace Persistence.Data
     public class DbInitializer : IDbInitializer
     {
         private readonly StoreContext storeContext;
-
-        public DbInitializer(StoreContext storeContext)
+        private readonly UserManager<User> userManager;
+        private readonly RoleManager<IdentityRole> roleManager;
+        public DbInitializer(StoreContext storeContext, UserManager<User> userManager, RoleManager<IdentityRole> roleManager)
         {
             this.storeContext = storeContext;
+            this.userManager = userManager;
+            this.roleManager = roleManager;
         }
+
+        public async Task IdentityInitialize()
+        {
+            if (!roleManager.Roles.Any())
+            {
+                await roleManager.CreateAsync(new IdentityRole("SuperAdmin"));
+                await roleManager.CreateAsync(new IdentityRole("Admin"));
+            }
+            if (!userManager.Users.Any())
+            {
+                var SuperAdminUser = new User
+                {
+                    DisplayName = "Super Admin User",
+                    Email = "SuperAdminUser@gmail.com",
+                    PhoneNumber = "1234567890",
+                    UserName = "SuperAdminUser"
+                };
+                var AdminUser = new User
+                {
+                    DisplayName = "Admin User",
+                    Email = "AdminUser@gmail.com",
+                    PhoneNumber = "1234567890",
+                    UserName = "AdminUser"
+                };
+
+                await userManager.CreateAsync(SuperAdminUser,"Passw0rd");
+                await userManager.CreateAsync(AdminUser,"Passw0rd");
+
+
+                await userManager.AddToRoleAsync(SuperAdminUser, "SuperAdmin");
+                await userManager.AddToRoleAsync(AdminUser, "Admin");
+            }
+
+        }
+
         public async Task Initialize()
         {
             try
@@ -28,7 +67,7 @@ namespace Persistence.Data
                     await storeContext.Database.MigrateAsync();
                     await storeContext.SaveChangesAsync();
                 }
-               
+
                 if (!storeContext.ProductBrands.Any())
                 {
                     var brands = await File.ReadAllTextAsync(@"..\Infrastructure\Persistence\Seeding\brands.json");

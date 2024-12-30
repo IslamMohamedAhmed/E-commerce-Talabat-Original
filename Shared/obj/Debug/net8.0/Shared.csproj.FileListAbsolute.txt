@@ -10,3 +10,15 @@ C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Shared\obj\Debug\net8.0\
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Shared\obj\Debug\net8.0\refint\Shared.dll
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Shared\obj\Debug\net8.0\Shared.pdb
 C:\Users\Islam Mohamed\source\repos\E-Commerce-Original\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\bin\Debug\net8.0\Shared.deps.json
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\bin\Debug\net8.0\Shared.dll
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\bin\Debug\net8.0\Shared.pdb
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\Shared.sourcelink.json
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\Shared.dll
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\refint\Shared.dll
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\Shared.pdb
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\Shared\obj\Debug\net8.0\ref\Shared.dll
