@@ -341,3 +341,4 @@ C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\E-Commerce-Original
 C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\E-Commerce-Original\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\E-Commerce-Original\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\E-Commerce-Original\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Islam Mohamed\Documents\E-commerce-Talabat-Original\E-Commerce-Original\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
